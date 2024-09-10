@@ -7,6 +7,9 @@ linkedin.com/in/joao-paulo-miranda/
 ## Executive
 I have experience in providing end-to-end data solutions and I believe that I would be a good fit for roles in Data Science, Machine Learning Engineering, and Data Engineering. I am proficient in **summary** translating  business  insights  into  impactful  data-driven  solutions.  Moreover,  I  am  committed  to continuous learning and I always embrace emerging technologies. I have thrived in dynamic startup environments, thanks to my multi-role capabilities and excellent collaborative skills.
 
+## Technical Skills
+Python, SQL, AWS, Google Cloud Platform (GCP), Microsoft Azure, Docker, Kubernetes, Git, Linux, Pandas, NumPy, Scikit-Learn, DASH, Streamlit, Power BI, Google Studio, Microsoft Excel, Microsoft Office, ETL, DBT, Big data, Airflow, Apache Spark, Databricks, Deep Learning, PyTorch, TensorFlow, Keras, Natural Language Processing (NLP),  NLTK,  SpaCy,  AutoML  tools,  OpenAI,  Azure  AI,  Langchain,  Large  Language  Models  (LLM),  Generative  AIs, Robotic Process Automation (RPA), Business Process Management (BPM)
+
 # Experience
 
 ## iProcess
@@ -54,5 +57,3 @@ Bachelor in Mechanical Engineering with Minor in Industry <br>
 Jul 2013 - Dez 2019 <br>
 
 Languages: Portuguese (Native), English (Advanced - C1)
-
-Technical Skills: Python, SQL, AWS, Google Cloud Platform (GCP), Microsoft Azure, Docker, Kubernetes, Git, Linux, Pandas, NumPy, Scikit-Learn, DASH, Streamlit, Power BI, Google Studio, Microsoft Excel, Microsoft Office, ETL, DBT, Big data, Airflow, Apache Spark, Databricks, Deep Learning, PyTorch, TensorFlow, Keras, Natural Language Processing (NLP),  NLTK,  SpaCy,  AutoML  tools,  OpenAI,  Azure  AI,  Langchain,  Large  Language  Models  (LLM),  Generative  AIs, Robotic Process Automation (RPA), Business Process Management (BPM)
