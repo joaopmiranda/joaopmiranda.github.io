@@ -47,9 +47,11 @@ Jan 2019 - Jan 2020
 - Designed  and  executed  a  thorough  validation  process  for  images  in  retail  data,  ensuring  compliance  with Google Merchant Center's publishing guidelines and improving the overall quality by 80% of published content;
 - Main technologies: Python, AWS, Spark, NLP, Big Data, Streamlit, Storytelling
 
-Education Universidade Federal de Santa Catarina 
-**Bachelor in Mechanical Engineering with Minor in Industry**
-**Jul 2013 - Dez 2019**
+
+## Education 
+Universidade Federal de Santa Catarina <br>
+Bachelor in Mechanical Engineering with Minor in Industry <br>
+Jul 2013 - Dez 2019 <br>
 
 Languages: Portuguese (Native), English (Advanced - C1)
 
