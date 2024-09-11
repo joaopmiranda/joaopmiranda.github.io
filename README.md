@@ -10,10 +10,10 @@ I have experience in providing end-to-end data solutions and I believe that I wo
 ## Technical Skills
 Python, SQL, AWS, Google Cloud Platform (GCP), Microsoft Azure, Docker, Kubernetes, Git, Linux, Pandas, NumPy, Scikit-Learn, DASH, Streamlit, Power BI, Google Studio, Microsoft Excel, Microsoft Office, ETL, DBT, Big data, Airflow, Apache Spark, Databricks, Deep Learning, PyTorch, TensorFlow, Keras, Natural Language Processing (NLP),  NLTK,  SpaCy,  AutoML  tools,  OpenAI,  Azure  AI,  Langchain,  Large  Language  Models  (LLM),  Generative  AIs, Robotic Process Automation (RPA), Business Process Management (BPM)
 
-# Experience
+## Experience
 
-## iProcess
-Nov 2023 - present
+### iProcess
+Nov 2023 - Abr 2024
 
 **Data Scientist**
 
@@ -24,7 +24,7 @@ Nov 2023 - present
 - Built and implemented the ETL pipeline for multiple clients;
 - Main technologies: Python, SQL, Azure, ETL, NLP, LLM, Langchain, OpenIA, Deep Learning, RPA, BPM and Generative AIs.
 
-## Grupo 3778
+### Grupo 3778
 Mar 2020 - Nov 2022 
 
 **Data Scientist Consultant**
@@ -40,7 +40,7 @@ Mar 2020 - Nov 2022
 - Automated dashboards and APIs for the usage of the client improving the data visualization quality;
 - Main technologies: Python, SQL, AWS, GCP, Airflow, ETL, DBT, NLP, Dash, Agile methods. 
 
-## Linx - Chaordic 
+### Linx - Chaordic 
 Jan 2019 - Jan 2020
 
 **Data Scientist Intership**
