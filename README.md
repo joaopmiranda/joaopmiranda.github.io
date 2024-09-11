@@ -1,11 +1,11 @@
-# JOÃO PAULO MIRANDA
+# Data Scientist
 
-jpfmirandaa@gmail.com
-
+## Contacts
+jpfmirandaa@gmail.com <br>
 linkedin.com/in/joao-paulo-miranda/
 
-## Executive
-I have experience in providing end-to-end data solutions and I believe that I would be a good fit for roles in Data Science, Machine Learning Engineering, and Data Engineering. I am proficient in **summary** translating  business  insights  into  impactful  data-driven  solutions.  Moreover,  I  am  committed  to continuous learning and I always embrace emerging technologies. I have thrived in dynamic startup environments, thanks to my multi-role capabilities and excellent collaborative skills.
+## Executive summary
+I have experience in providing end-to-end data solutions and I believe that I would be a good fit for roles in Data Science, Machine Learning Engineering, and Data Engineering. I am proficient in translating  business  insights  into  impactful  data-driven  solutions.  Moreover,  I  am  committed  to continuous learning and I always embrace emerging technologies. I have thrived in dynamic startup environments, thanks to my multi-role capabilities and excellent collaborative skills.
 
 ## Technical Skills
 Python, SQL, AWS, Google Cloud Platform (GCP), Microsoft Azure, Docker, Kubernetes, Git, Linux, Pandas, NumPy, Scikit-Learn, DASH, Streamlit, Power BI, Google Studio, Microsoft Excel, Microsoft Office, ETL, DBT, Big data, Airflow, Apache Spark, Databricks, Deep Learning, PyTorch, TensorFlow, Keras, Natural Language Processing (NLP),  NLTK,  SpaCy,  AutoML  tools,  OpenAI,  Azure  AI,  Langchain,  Large  Language  Models  (LLM),  Generative  AIs, Robotic Process Automation (RPA), Business Process Management (BPM)
@@ -13,9 +13,9 @@ Python, SQL, AWS, Google Cloud Platform (GCP), Microsoft Azure, Docker, Kubernet
 # Experience
 
 ## iProcess
+Nov 2023 - present
 
 **Data Scientist**
-Nov 2023 - present
 
 - Led the development of software for innovation projects, including prototypes and MVPs;
 - Prepared and processed data for training ML/AI models;
